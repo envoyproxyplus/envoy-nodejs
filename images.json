@@ -1,5 +1,6 @@
 [
-    {"envoy":"v1.9.0" , "nodejs":"10.15.0" , "tags" : ["latest"] },
+    {"envoy":"v1.11.1" , "nodejs":"10.15.0" , "tags" : ["latest"] },
+    {"envoy":"v1.9.0" , "nodejs":"10.15.0" },
     {"envoy":"v1.9.0" , "nodejs":"8.15.0" },
     {"envoy":"v1.9.0" , "nodejs":"9.11.2" }
 ]
